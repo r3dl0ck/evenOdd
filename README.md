@@ -1,4 +1,5 @@
 # evenOdd
+[![Build Status](http://labpsrv-00.northeurope.cloudapp.azure.com:8080/buildStatus/icon?job=even-odd)](http://labpsrv-00.northeurope.cloudapp.azure.com:8080/job/even-odd/)
 
 Należy dodać shared library do Jenkins jako 'evenOdd'.
 
